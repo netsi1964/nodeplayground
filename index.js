@@ -20,7 +20,7 @@ function download(salmenr) {
                 });
             }
         });
-    })
+    });
 }
 
 //download(salmenr);
